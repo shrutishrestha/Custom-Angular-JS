@@ -6,9 +6,5 @@ It implements major functionalities of angular JS including
 2) ng-repeat
 3) ng-route
 4) custom-directives
-=======
-*ng-model
-*ng-repeat
-*ng-route
-*custom-directives
->>>>>>> 2e9def318bd3fe5496ead355babd28620772f772
+
+
